@@ -69,7 +69,7 @@ import axios from 'axios'
     <div className="header">AI Response <span>Generator</span></div>
     <div className="img-loading">
         <div className="image">
-            <img src={defaultImage } alt="image" />
+            <img src={defaultImage } alt="loader image" />
         </div>
     </div>
     
